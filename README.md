@@ -1,2 +1,2 @@
 # myrepo
-Nothing goes here... Why not running .exe and see yourself?
+Nothing goes here... Why not running .exe and try yourself?
