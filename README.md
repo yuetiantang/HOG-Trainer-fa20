@@ -1,2 +1,2 @@
 # myrepo
-Just a default repository
+Nothing goes here... Why not running .exe and see yourself?
